@@ -1,0 +1,22 @@
+Miscellaneous Data
+
+Assembly Zone Maximum Occupancy
+Zone.Za 2
+Zone.Zb 1
+Zone.Zc 1
+Zone.Zd 2
+Zone.Ze 1
+Zone.Zf 2
+Zone.Zg 1
+Zone.Zh 2
+Zone.Zi 5
+Zone.Zj 2
+Zone.Zk 1
+Zone.Zl 4
+Zone.Zm 3
+
+Initial Labor Availability by Shift
+Labor.Px 2 1
+Labor.Py 3 1
+Labor.Pz 2 2
+Labor.Pw 3 2
